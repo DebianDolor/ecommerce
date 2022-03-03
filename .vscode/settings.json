@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.module": "php",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "vector": "cpp"
+  }
+}
